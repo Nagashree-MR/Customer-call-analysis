@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project features an interactive Microsoft Excel dashboard built to analyze **call center performance at the representative level**. It allows users to drill down into individual rep metrics, helping supervisors assess productivity, identify top performers, and spot improvement opportunities — all within a clean and intuitive interface.
+This project features an interactive Microsoft Excel dashboard built to analyze **call center performance at the representative level**. It allows users to drill down into individual rep metrics, helping supervisors assess productivity, identify top performers, and spot improvement opportunities, all within a clean and intuitive interface.
 
 ## Key Insights Provided
 
@@ -16,7 +16,7 @@ This project features an interactive Microsoft Excel dashboard built to analyze 
 
 - Built **entirely in Excel** using Pivot Tables, Charts, and Slicers
 - Clickable filters for real-time, rep-specific insights
-- No coding or external tools required — simple, powerful, and accessible
+- No coding or external tools required — simple, powerful and accessible
 - Ideal for team leads and managers to:
   - Monitor team workload
   - Compare performance metrics
