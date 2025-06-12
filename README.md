@@ -25,7 +25,7 @@ This project features an interactive Microsoft Excel dashboard built to analyze 
 
 ## Project Structure
 
-- **Excel Dashboard/** – Contains the `.xlsx` file with the working dashboard
+- **Call centre performance dashboard/** – Contains the `.xlsx` file with the working dashboard
 - **Screenshots/** – Visual previews of the dashboard’s functionality
 
 ## Tools Used
